@@ -38,8 +38,8 @@ To help Jekyll with compiling and publishing Markdown files, files contain text 
 
 - [GitHub Pages Usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits)
 
-# Using the Exercise Files
-1. Create a new repo and add the exercise files for this lesson.
+# Setup
+1. Create a new repo and add the files.
 
     Make sure all `*.png` files are moved into the `images` directory.
 
