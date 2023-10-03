@@ -1,4 +1,4 @@
-# Template GitHub Pages
+# Template GitHub Pages with Markdown
 > **Warning**: GitHub Pages sites are publicly available on the internet, even if the repository for the site is private.
 >
 > If you have sensitive data in your site's repository, you may want to remove the data before publishing a site using GitHub Pages.
